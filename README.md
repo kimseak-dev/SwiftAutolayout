@@ -1,6 +1,9 @@
 # SwiftAutolayout
 Sample project in Swift 3.x to try auto layout programmatically
 
+
+### EXAMPLE
+![Example gif](https://raw.githubusercontent.com/sauvikatinnofied/SwiftAutolayout/master/YbsIsl.gif)
 ### Basic Usages
 
 ```swift
